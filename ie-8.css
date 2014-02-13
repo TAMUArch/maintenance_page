@@ -1,0 +1,11 @@
+.header  a.logo.tamu-logo {
+	background: url(tamu.ie.png) no-repeat;
+}
+		
+.header  a.logo.site-logo {
+	background: url(coa.ie.png) no-repeat;
+}
+
+div.mobile-navigation {
+	display: none;
+}
